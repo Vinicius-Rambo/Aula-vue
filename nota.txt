@@ -1,0 +1,1 @@
+Por exemplo se modificarmos algo, agora já temos tudo configurado, basta fazer outros comando de add e commit.
